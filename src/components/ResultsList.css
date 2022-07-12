@@ -1,0 +1,8 @@
+.results-heading {
+  margin: 10px 20px;
+}
+
+.ResultsList {
+  display: flex;
+  flex-wrap: wrap;
+}

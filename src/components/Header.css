@@ -1,0 +1,10 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.Header .link {
+  text-decoration: none;
+  color: #28b39d;
+}

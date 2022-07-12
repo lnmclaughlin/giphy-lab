@@ -1,0 +1,7 @@
+.Favorites h2 {
+  margin: 0 30px;
+}
+
+.Favorite .fav {
+  text-decoration: none;
+}

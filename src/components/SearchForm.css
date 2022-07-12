@@ -1,0 +1,25 @@
+.SearchForm {
+  width: 100%;
+  /* margin: 20px; */
+}
+
+.SearchForm .search-label {
+  margin: 0 20px;
+}
+
+.SearchForm .input-button {
+  display: flex;
+  margin: 0 20px;
+}
+
+.SearchForm #search {
+  flex: 1;
+  padding: 5px;
+}
+
+.SearchForm .search-btn {
+  border: none;
+  background-color: #145a4f;
+  color: #fff;
+  border-radius: 2px;
+}
